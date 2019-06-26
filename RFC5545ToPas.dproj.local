@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/06/22 05:10:21.000.634,C:\Users\AlienVM1\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\AlienVM1\Documents\Embarcadero\Studio\Projects\RFC5545ToJSON.dproj</Transaction>
+    <Transaction>2019/06/22 05:19:10.000.404,C:\Users\AlienVM1\Documents\Embarcadero\Studio\Projects\RFC5545ToJSON.dproj=C:\Users\AlienVM1\Documents\Embarcadero\Studio\Projects\RFC5545ToPas.dproj</Transaction>
+    <Transaction>2019/06/22 05:19:23.000.171,C:\Users\AlienVM1\Documents\Embarcadero\Studio\Projects\RFC5545ToPas.dproj=C:\temp\RFC5545ToPas.dproj</Transaction>
+    <Transaction>2019/06/26 16:35:27.820,C:\temp\iCalendarRFC5545Gen\RFC5545ToPas.dproj=C:\temp\RFC5545ToPas.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
