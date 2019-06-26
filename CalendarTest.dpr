@@ -11,8 +11,7 @@ uses
   DUnitX.Loggers.Console,
   DUnitX.Loggers.Xml.NUnit,
   DUnitX.TestFramework,
-  iCalendarAPI in '..\Win32\Debug\iCalendarAPI.pas',
-  CalendarAPITest in '..\CalendarAPITest.pas';
+  CalendarAPITest in 'CalendarAPITest.pas';
 
 var
   runner : ITestRunner;

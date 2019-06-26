@@ -138,8 +138,7 @@
         <DelphiCompile Include="$(MainSource)">
             <MainSource>MainSource</MainSource>
         </DelphiCompile>
-        <DCCReference Include="..\Win32\Debug\iCalendarAPI.pas"/>
-        <DCCReference Include="..\CalendarAPITest.pas"/>
+        <DCCReference Include="CalendarAPITest.pas"/>
         <BuildConfiguration Include="Release">
             <Key>Cfg_2</Key>
             <CfgParent>Base</CfgParent>
